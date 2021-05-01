@@ -1,4 +1,4 @@
-package com.example.mechapp
+package com.example.carapp
 
 import org.junit.Test
 
